@@ -5,5 +5,6 @@ Trying to improve.
 
 To run:
 ``` bash
-javac Main
+javac Main.java
+java Main
 ```
